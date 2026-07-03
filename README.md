@@ -50,11 +50,12 @@ Currently pursuing advanced Agentic AI through the [Agent Factory](https://agent
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajid16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajid16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajid16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/wajid16?style=for-the-badge&label=followers&color=2f5fd6" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/wajid16&label=public%20repos&query=%24.public_repos&style=for-the-badge&color=2f5fd6" alt="Public Repos" />
 </p>
 
 ---
